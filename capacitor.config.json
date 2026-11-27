@@ -1,0 +1,6 @@
+{
+  "appId": "eg.rta.tanta",
+  "appName": "إدارة منطقة طنطا",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
